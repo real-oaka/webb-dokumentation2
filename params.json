@@ -1,6 +1,6 @@
 {
   "name": "Webb-dokumentation2",
   "tagline": "Ett test för att lägga upp dokumentation på Github",
-  "body": "#Webb-dokumentation\r\n\r\nDetta är ett repo för min dokumentation om olika webb relaterade saker.",
+  "body": "#Webb-dokumentation\r\n\r\nDetta är ett repo för min dokumentation om olika webb relaterade saker.\r\n\r\n##Olika dokument\r\nJag har dokumentation för Brackets, Babel och Git",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
